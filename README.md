@@ -1,4 +1,4 @@
-# FindKeyMail
+n# FindKeyMail
 
 
 [◾] O QUE É UM BRUTEFORCE<br>
@@ -17,7 +17,11 @@ Os principais alvos são servidores de e-mails, servidores com Telnet ativo, FTP
 • pkg install python3<br>
 • pkg install git<br>
 • git clone https://github.com/sadamshr3be/alsharabiMail
+
+
 • cd alsharabiMail
+
+
 • chmod +x sadamalsharabi.py<br>
 • python3 sadamalsharabi.py<br><br><br>
 
